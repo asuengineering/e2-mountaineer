@@ -10,7 +10,7 @@ const FilesToCache = [
   "/app.js",
   "/index.html",
   "/app.css",
-  "/jelpi.js",
+  "/e2_mountaineer.js",
   "/manifest.json",
   "/images/icon_128x128.png",
   "/images/icon_144x144.png",
@@ -26,7 +26,7 @@ const FilesToCache = [
 // CacheName is the identifier for your cache.
 // You should update this manually whenever any of the files in `FilesToCache`
 // change.
-const CacheName = "pico8-game-cache-v2";
+const CacheName = "pico8-game-cache-v1";
 
 /**
  * Service Worker event handlers.
